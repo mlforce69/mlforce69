@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin Lubenov
 - 👀 I’m interested in learning new things, in order to become a good frontend developer.
-- 🌱 I’m currently learning node and react js.
+- 🌱 I’m currently studying node and react js.
 - 💞️ I’m looking for a job in the IT industry.
 
 
